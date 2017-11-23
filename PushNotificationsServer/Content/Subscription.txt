@@ -1,0 +1,1 @@
+{"endpoint":"https://updates.push.services.mozilla.com/wpush/v1/gAAAAABaFXtrPmab4jmlTdPA1jI9b3vR2qoZTLtfgG0-J9I4aSkSdSBUBT5m_nVKQEJBPYIsb9TVv5KxpWpw0V_oYRWqMRERWyONgpdcmoyPLzUEvA9zU3yMqFUw2wjapN5TQl0LqQ5C","keys":{"auth":"josg-LEAFujXol1MmxniwQ","p256dh":"BKQ7jIlHD0bpba1c4x0chUud-y9M12y7W-dKUW_0okxrawhBQhpq6Es0ux11Y39vxLIiESby4HeoyyneAIjfjuY"}}
